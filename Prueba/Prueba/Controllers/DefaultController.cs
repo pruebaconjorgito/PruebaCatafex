@@ -85,5 +85,10 @@ namespace Prueba.Controllers
                 return View();
             }
         }
+
+        private void Basura()
+        {
+
+        }
     }
 }
